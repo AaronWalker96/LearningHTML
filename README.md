@@ -1,2 +1,2 @@
 # LearningHTML
-A test website that I created when learning hot to use HTML and CSS
+A test website to help learn HTML and CSS 
